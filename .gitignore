@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java compiled files
+*.class
+
+# Maven build files
+target/
+bin/
+
+# Logs
+*.log
+
+# Environment / secret files
+.env
